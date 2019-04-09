@@ -1,5 +1,6 @@
 @import "bootstrap";
 
+
 .clear{
   clear: both;
 }
@@ -38,6 +39,8 @@
     color: black;
     font-size: 25px;
     border-bottom: 1px solid #dfdfdf;
+    font-family: 'amblebold', sans-serif;
+    font-weight: bold;
 }
 
 header{
@@ -46,4 +49,14 @@ header{
 
 hr{
     clear: both;
+}
+
+h1{
+    font-family: 'amblebold', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+h2 {
+  font-family: 'amblebold_italic', sans-serif;
 }
